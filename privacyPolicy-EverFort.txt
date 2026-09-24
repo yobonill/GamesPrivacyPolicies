@@ -1,0 +1,109 @@
+# EverFort Privacy Policy
+
+**Effective Date:** September 24, 2026
+**Last Updated:** September 24, 2026
+
+EverFort is a game developed and published by **Shekinah Weleful Designs**.
+
+This Privacy Policy explains how information is handled when you use EverFort.
+
+**Application:** EverFort
+**Android Package:** `com.shekinahwelefuldesigns.everfort`
+
+## Information Collection
+
+EverFort does **not collect, transmit, sell, rent, or share personal information** with the developer or third parties.
+
+The game does not require you to create an account, sign in, or provide personal information.
+
+EverFort does not use:
+
+* Advertising services or advertising SDKs
+* Analytics or tracking services
+* Crash-reporting services that transmit information to the developer
+* Firebase services
+* Cloud save services
+* In-app purchase or billing services
+* Location services
+* Contacts
+* Camera access
+* Microphone access
+* Photos, videos, or other personal media
+* Device advertising identifiers for tracking
+
+## Local Game Data
+
+EverFort stores game information locally on your device so that your progress can be restored between play sessions.
+
+This local information may include:
+
+* Game progress
+* Current and previous run progress
+* Resources and upgrades
+* Missions and unlocks
+* Bestiary or encyclopedia progress
+* Prestige progress
+* Gameplay statistics
+* Game settings and preferences
+* Information required to calculate offline progress and rewards, such as the time the game was last played
+
+This information remains on your device and is not transmitted to Shekinah Weleful Designs.
+
+EverFort does not operate a server or cloud database containing your game progress.
+
+## Internet and Network Access
+
+The current version of EverFort does not require internet access for its gameplay systems and does not transmit gameplay information to the developer.
+
+The game may provide optional links to external services, such as the EverFort community on Discord. If you choose to open an external link, you leave EverFort and interact directly with that third-party service.
+
+Any information processed by an external service is governed by that service's own privacy policy and terms.
+
+## Google Play and Platform Services
+
+If you download EverFort through Google Play or another application marketplace, the marketplace and your device operating system may process information independently of EverFort.
+
+Shekinah Weleful Designs does not control the information collected directly by Google Play, Android, or other distribution platforms. Their own privacy policies apply to their processing of that information.
+
+## Data Sharing
+
+EverFort does not share personal information or gameplay data with third parties because the game does not collect or transmit such information.
+
+## Data Retention and Deletion
+
+Game progress and settings are stored locally on your device.
+
+Because Shekinah Weleful Designs does not receive or maintain a server-side copy of this data, the developer has no remote copy to retain or delete.
+
+You can remove EverFort's locally stored information by clearing the application's data through your device settings or by uninstalling the application.
+
+Once local game data is removed, Shekinah Weleful Designs cannot restore it because no cloud copy is maintained by the developer.
+
+## Children's Privacy
+
+EverFort does not knowingly collect personal information from children.
+
+Because EverFort does not collect personal information from its users, the developer does not maintain personal information belonging to children or adults through the game.
+
+External platforms or services accessed separately from EverFort are governed by their own privacy policies and age requirements.
+
+## Security
+
+EverFort is designed so that game progress and settings remain locally on the player's device rather than being transmitted to servers operated by Shekinah Weleful Designs.
+
+The security of locally stored information also depends on the security of your device and operating system.
+
+## Changes to This Privacy Policy
+
+This Privacy Policy may be updated if EverFort's features or data practices change.
+
+For example, if a future version introduces advertising, analytics, online services, cloud saves, accounts, purchases, or other services that process user information, this Privacy Policy will be updated to describe those practices.
+
+Any changes will be reflected by updating the "Last Updated" date at the beginning of this policy.
+
+## Contact
+
+If you have questions about this Privacy Policy or EverFort's privacy practices, contact:
+
+**Shekinah Weleful Designs**
+**Email:** [shekinahwd@gmail.com](mailto:shekinahwd@gmail.com)
