@@ -1,0 +1,75 @@
+# LootFarmer - Idle RPG Privacy Policy
+
+**Effective Date:** October 24, 2026
+
+**Last Updated:** October 24, 2026
+
+LootFarmer - Idle RPG ("LootFarmer") is developed and published by **Shekinah Weleful Designs**.
+
+**Application:** LootFarmer - Idle RPG
+
+**Android Package:** `com.shekinahwelefuldesigns.lootfarmeridlerpg`
+
+This Privacy Policy explains how information is handled when you use LootFarmer.
+
+## Information Collection
+
+LootFarmer does not ask you to create an account, sign in, or provide personal information. The current version of the game does not collect or transmit personal information or gameplay data to Shekinah Weleful Designs or third parties.
+
+The current version does not integrate:
+
+- Advertising services or advertising SDKs;
+- Analytics, user tracking, or telemetry services;
+- Developer-operated crash-reporting services;
+- Firebase or cloud-save services;
+- In-app purchases, subscriptions, or in-game billing services.
+
+The game does not request access to your location, contacts, camera, microphone, personal media, or advertising identifier for tracking.
+
+## Local Game Data
+
+LootFarmer saves game information locally on your device so that you can continue playing across sessions. Depending on your progress, this information may include:
+
+- Game progress, unlocked stages, camps, and map exploration;
+- Coins, gems, equipment, consumables, and upgrades;
+- Missions, achievements, enemy progression, and prestige progress;
+- Gameplay statistics and settings, including language and audio preferences;
+- Timestamps used to determine elapsed time and calculate offline rewards.
+
+This information is stored in the game's local application storage. It is not uploaded by the game to servers operated by Shekinah Weleful Designs, and the developer does not maintain a cloud database of your progress.
+
+## Internet Access and External Services
+
+LootFarmer's current gameplay features do not require an internet connection, and the game does not transmit locally saved gameplay information to the developer.
+
+If you obtain LootFarmer through Google Play, Google may process information relating to app distribution, purchases, payments, security, or operation of its platform independently of the game. Such processing is governed by Google's own privacy policies and is not a collection of information by LootFarmer itself.
+
+## Data Sharing
+
+LootFarmer does not sell, rent, or share personal information or locally stored gameplay data with third parties. No such information is transmitted to the developer by the current game.
+
+## Data Retention and Deletion
+
+Locally saved game data remains on your device until you delete it. You can remove the game's local information by clearing LootFarmer's app storage in your Android device settings or uninstalling the app, subject to any separate device or platform backup arrangements.
+
+Because Shekinah Weleful Designs does not receive or store a server-side copy of this data, there is no developer-held gameplay account or cloud save to request deletion of or to restore after local data is removed.
+
+## Children's Privacy
+
+LootFarmer does not knowingly collect personal information from children or other players. The game does not require users to provide identifying information or create an account. Information processed separately by Google Play or your device operating system is subject to those services' own privacy policies.
+
+## Data Security
+
+The current game is designed to keep game progress and preferences on your device rather than transmitting them to developer-operated servers. Security of locally stored information also depends on your device and operating system. No online data transmission by the game is used for the saved gameplay information described above.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy if LootFarmer's features or data practices change. For example, if future versions introduce online services, cloud saving, analytics, advertising, or other features involving user information, the policy will be revised to explain those practices. Changes will be reflected in the "Last Updated" date above.
+
+## Contact
+
+For questions about LootFarmer or this Privacy Policy, contact:
+
+**Shekinah Weleful Designs**
+
+**Email:** shekinahwd@gmail.com
